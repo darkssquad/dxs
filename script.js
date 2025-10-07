@@ -10,7 +10,8 @@ const ITEMS = [
   {title:"PhonPe Spoof",category:"utilities",desc:"Payment simulation tool",size:"3MB",url:"https://a.xpshort.com/HaSk",img:"phonepe.jpg"},
   {title:"Amazon MTV",category:"utilities",desc:"Premium shopping tools",size:"10MB",url:"https://a.xpshort.com/r2zyCe",img:"amazon.jpg"},
   {title:"FF Panel",category:"utilities",desc:"Direct Headshot, Many more",size:"187MB",url:"https://xpshort.com/panelff",img:"ffpanel.jpg"},
-  {title:"WhatsApp BAN Method",category:"utilities",desc:"BAN and UNBAN method",size:"5MB",url:"https://xpshort.com/PazkJJ",img:"ban.jpg"}
+  {title:"WhatsApp BAN Method",category:"utilities",desc:"BAN and UNBAN method",size:"5MB",url:"https://xpshort.com/PazkJJ",img:"ban.jpg"},
+  {title:"Snapchat BAN Method",category:"utilities",desc:"Don't Use For Wrong Purpose",size:"2MB",url:"https://xpshort.com/HdHhj",img:"snapchat.jpg"}
 ];
 
 /* ===== DOM refs ===== */
