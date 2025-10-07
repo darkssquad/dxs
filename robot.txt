@@ -1,0 +1,11 @@
+# Robots.txt for Dark Squad
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Link to sitemap for faster indexing
+Sitemap: https://darkssquad.github.io/dxs/sitemap.xml
+
+# Optional: block sensitive folders (if any)
+# Disallow: /admin/
+# Disallow: /private/
